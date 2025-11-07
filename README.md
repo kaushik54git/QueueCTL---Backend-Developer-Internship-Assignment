@@ -35,7 +35,6 @@ python \-m queuectl worker start \--count 2
 python \-m queuectl status  
 \# Output:  
 \# QueueCTL Status:  
-\# \----------------------------------------  
 \# pending: 0  
 \# processing: 1  
 \# ...
