@@ -3,7 +3,7 @@
 A CLI-based background job queue system built in Python. It features persistent SQLite storage, multi-worker support, automatic retries with exponential backoff, and a Dead Letter Queue (DLQ).
 
 # **Working Demo**
-[![Watch the video]](https://raw.githubusercontent.com/kaushik54git/QueueCTL---Backend-Developer-Internship-Assignment/main/demo.mp4)
+https://raw.githubusercontent.com/kaushik54git/QueueCTL---Backend-Developer-Internship-Assignment/main/demo.mp4
 
 ## **Features**
 
