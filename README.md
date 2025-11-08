@@ -4,8 +4,9 @@ A CLI-based background job queue system built in Python. It features persistent 
 
 # **Working Demo**
 
-<video src="[LINK](https://github.com/kaushik54git/QueueCTL---Backend-Developer-Internship-Assignment/blob/main/demo.mp4)" controls="controls" style="max-width: 730px;">
+<video src="[LINK](https://github.com/kaushik54git/QueueCTL---Backend-Developer-Internship-Assignment/main/assets/demo.mp4)" controls="controls" style="max-width: 730px;">
 </video>
+[![Watch the video]()](https://raw.githubusercontent.com/kaushik54git/QueueCTL---Backend-Developer-Internship-Assignment/main/demo.mp4)
 
 ## **Features**
 
